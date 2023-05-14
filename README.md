@@ -1,6 +1,6 @@
 # OTOBÜS BİLETİ SATIŞ UYGULAMASI
 Yapacağım uygulama otobüs şirketlerinde bilet satışını takip etmede kullanılacaktır.
 ## UYGULAMANIN İÇERİĞİ
-Uygulamada bir yolcu hangi firmayı işaretlemişse o otobüsün sol tarafta koltukları belirecektir ve o kısımdan istediği koltuğu seçip isim-soyisim,telefon numarası,tc kimlik bilgisi ve son olarak cinsiyeti seçecektir.Sonra kalkış yeri ve varış yeri, tarih-saat bilgileri ve de alınan ücret yazılıp kaydet butonuna basılmasıyla sağ taraftaki listede yolcudan alınan ad-soyad,telefon,cinsiyet,kalkış ve varış noktaları,koltuk numarası ve tarih hepsi sırayla alt alta gösterilecektir.
+Uygulamada bir yolcu gideceği yeri seçtikten sonra aktif otobüs firmaları listenecektir.Sayfanın sol kısmında seçilen otobüsün koltukları yer alacaktır.İstenilen bilgileri doldurup bileti alacaktır.Müşteri bu uygulamada otobüs firmalarındaki indirimleri, istediği firma ve koltuğu seçebilecektir. Koltuk seçiminde güneşin hangi yönden vuracağını görebilecektir.Bileti aldıkça firmalara göre kuponlar,mağazalarda geçerli indirimler verilecektir.Özel günlerde biletlerde indirimlerden yararlanabilecektirler.
 ## UYGULAMA YAPIM AŞAMASI
 Uygulama Windows Forms ile yapılacaktır.
