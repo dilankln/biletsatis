@@ -129,8 +129,24 @@ Evet uygulamanın formdaki son hali böyle duruyor.Şimdi kadın ve erkek olarak
 + İlk müşterimiz Selçuk Truzim firmasından Samsundan Mersine 23 Haziran tarihinde 16 numaralı koltukta gidecek olsun. Müşteri adı-soyadı Dilan Kılın bilet fiyatı 530 TL dir.
 
 ![secim1](https://github.com/dilankln/biletsatis.io/assets/102542430/66d9c890-8baf-4e8b-bc5d-18e522f78fbf)
+
 ![kayıt3](https://github.com/dilankln/biletsatis.io/assets/102542430/8ca7747b-6a6c-4e44-b113-de6f6443ae0b)
+
 ![kayıt4](https://github.com/dilankln/biletsatis.io/assets/102542430/c8121ce9-bce4-424e-897d-7cc9fce5a7ab)
+
 ![kayıt5](https://github.com/dilankln/biletsatis.io/assets/102542430/4cda44c2-d9c7-4f34-88bd-b23eec1fd5f7)
+
 ![kayıt6](https://github.com/dilankln/biletsatis.io/assets/102542430/614c86aa-07a7-4de3-9351-e1115bd4f6ea)
 
+![kayıt7](https://github.com/dilankln/biletsatis.io/assets/102542430/76e16d5d-86c6-4f6b-8739-f1e98e1b6c96)
+
+Rezerve et seçeneğine tıklayalım ve kayıt formunu dolduralım.
+![kayıt8](https://github.com/dilankln/biletsatis.io/assets/102542430/86b53e38-833d-461b-a076-02394cb1e6f0)
+
+Tamam seçeneğine tıkladığımızdaki son haline bakalım.
+![kayıt9](https://github.com/dilankln/biletsatis.io/assets/102542430/4477d566-2109-4603-a0b4-19ae4efa494e)
+
+Bir tane daha erkek müşteri yapalım.
+![kayıt10](https://github.com/dilankln/biletsatis.io/assets/102542430/a73bee47-9157-4340-bec6-26ad0b1afe3d)
+
+Evet Kadınlarda kırmızı erkeklerde mavi olarak koltuk rengi değişiyor.Uygulamamız bu kadar.Umarım anlatımım sizler için anlaşılır olmuştur.Takıldığınız yapamadığınız yerleri tartışma bölümü açtım oraya yazabilirsiniz.
