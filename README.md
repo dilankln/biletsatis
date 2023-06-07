@@ -126,3 +126,11 @@ Evet uygulamanın formdaki son hali böyle duruyor.Şimdi kadın ve erkek olarak
 
 ## ÖRNEK MÜŞTERİ KAYIT ETME
 
++ İlk müşterimiz Selçuk Truzim firmasından Samsundan Mersine 23 Haziran tarihinde 16 numaralı koltukta gidecek olsun. Müşteri adı-soyadı Dilan Kılın bilet fiyatı 530 TL dir.
+
+![secim1](https://github.com/dilankln/biletsatis.io/assets/102542430/66d9c890-8baf-4e8b-bc5d-18e522f78fbf)
+![kayıt3](https://github.com/dilankln/biletsatis.io/assets/102542430/8ca7747b-6a6c-4e44-b113-de6f6443ae0b)
+![kayıt4](https://github.com/dilankln/biletsatis.io/assets/102542430/c8121ce9-bce4-424e-897d-7cc9fce5a7ab)
+![kayıt5](https://github.com/dilankln/biletsatis.io/assets/102542430/4cda44c2-d9c7-4f34-88bd-b23eec1fd5f7)
+![kayıt6](https://github.com/dilankln/biletsatis.io/assets/102542430/614c86aa-07a7-4de3-9351-e1115bd4f6ea)
+
