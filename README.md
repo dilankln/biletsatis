@@ -25,8 +25,20 @@ Kalkış yeri ve varış yerini groupbox içerisine alıp ismini istikamet yapal
 Nasıl değiştirdiğimizi bir tanesinde sizlere göstereceğim diğerlerine de aynı işlemi uygulayacağız.
 
 ![ornek1](https://github.com/dilankln/biletsatis.io/assets/102542430/df1714c0-ffb5-4d1e-bc7a-86b05ccefb0e)
+
 Özellikler kısmında Text yazan yere istediğimizi yazıyoruz.Yazı boyutu,renki  ve şekli için oradaki Font kısmına tıklayıp ayarlayabilirsiniz.
 Şimdi diğer labelleri değiştirip son halini sizlere göstereceğim.
 
 ![giris2](https://github.com/dilankln/biletsatis.io/assets/102542430/c6ae5c4e-9557-45ea-86a6-9fb9f6295a31)
 
+Yaptığımız işlemlerden sonraki hali bu.Şimdi kod kısmında bizlere kolaylık olması adına labeller hariç eklediğimiz diğer araçların isimlerini kısaltalım. Yine bir örnek vereceğim aynı şekilde diğerlerine de uygulayın.
+
+![giris3](https://github.com/dilankln/biletsatis.io/assets/102542430/3c910b6f-13fe-4409-9372-7dc581649ed1)
+
+Diğerlerini ne adla kısalttığımı yazacağım sonrasında ise yeni form oluşturacağız.
++ ComboBox2= cmbNereden
++ ComboBox3= cmbNereye
++ DateTimePicker= dtpTarih
++ NumericUpDown=nudFiyat
+
+Şeklinde kısalttım.
