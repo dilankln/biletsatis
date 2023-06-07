@@ -22,3 +22,6 @@ Yukarıda verdiğim adımları sırasıyla yapmaya başlayabiliriz.Araç kutusun
 + label5=Fiyat:
 
 Kalkış yeri ve varış yerini groupbox içerisine alıp ismini istikamet yapalım.
+Nasıl değiştirdiğimizi bir tanesinde sizlere göstereceğim diğerlerine de aynı işlemi uygulayacağız.
+![ornek1](https://github.com/dilankln/biletsatis.io/assets/102542430/df1714c0-ffb5-4d1e-bc7a-86b05ccefb0e)
+
