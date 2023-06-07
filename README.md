@@ -42,3 +42,23 @@ Diğerlerini ne adla kısalttığımı yazacağım sonrasında ise yeni form olu
 + NumericUpDown=nudFiyat
 
 Şeklinde kısalttım.
+Yeni öge ekle seçeneğine tıklayıp Formu seçelim ismini KayıtFormu yapalım.
+
+![giris4](https://github.com/dilankln/biletsatis.io/assets/102542430/7a60f2b8-6229-4634-826c-98ccf9a06cbd)
+
+Eğer yeni öge ekle seçeneğini bulamadıysanız arama kutucuğuna yazarak da ulaşabilirsiniz.
+Yeni oluşturduğumuz forma ise 2 tane label, 2 tane textBox kutucuğu,2 tane radioButton ve 2 tane buton ekleyip yerlerine yerleştirelim.
+
+![kayıt](https://github.com/dilankln/biletsatis.io/assets/102542430/49f978e1-53e1-4614-970a-7b3b8b304aed)
+
++ label1=İsim:
++ label2=Soyisim:
++ radioButton1=Bay
++ radioButton2=Bayan
++ button1=İptal
++ button2=Kaydet
+
+şeklinde düzenleyelim ve nasıl göründüğüne bakalım.
+
+![kayıt2](https://github.com/dilankln/biletsatis.io/assets/102542430/030ce7ad-e18c-44ab-ab99-f7f9f027cf7c)
+
