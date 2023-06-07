@@ -23,5 +23,10 @@ Yukarıda verdiğim adımları sırasıyla yapmaya başlayabiliriz.Araç kutusun
 
 Kalkış yeri ve varış yerini groupbox içerisine alıp ismini istikamet yapalım.
 Nasıl değiştirdiğimizi bir tanesinde sizlere göstereceğim diğerlerine de aynı işlemi uygulayacağız.
+
 ![ornek1](https://github.com/dilankln/biletsatis.io/assets/102542430/df1714c0-ffb5-4d1e-bc7a-86b05ccefb0e)
+Özellikler kısmında Text yazan yere istediğimizi yazıyoruz.Yazı boyutu,renki  ve şekli için oradaki Font kısmına tıklayıp ayarlayabilirsiniz.
+Şimdi diğer labelleri değiştirip son halini sizlere göstereceğim.
+
+![giris2](https://github.com/dilankln/biletsatis.io/assets/102542430/c6ae5c4e-9557-45ea-86a6-9fb9f6295a31)
 
