@@ -6,8 +6,8 @@ Uygulamada bir yolcu gideceği yeri seçtikten sonra aktif otobüs firmaları li
 Uygulama Windows Forms ile yapılacaktır.
 ## UYGULAMA YAPIM ADIMLARI
 Öncelikle Windows Forms dosyası açalım. Ardından yapacağımız uygulamayı adım adım planlayalım.Yani ilk ne yapacağız sonra ne ile devam edeceğiz gibi.
-  -En üstte otobüs seçim kutucuğu olacak firma adları listelenecektir.
-  -İstikamet adı altında kalkış ve varış yerleri seçilecektir.
-  -Tarih kutucuğu ve fiyat kutucuğu ile o kısmı bitirmiş olacağız.
-  -Yukarıdaki işaretlemeler bittikten sonra sol tarafta seçtiğimiz otobüs firmasının koltukları belirecektir. Oradan farede sağ tık ile rezerve et seçeneği ile koltuğu satın almak için bir diğer işleme geçilecektir.Yeni bir form oluşturup orada müşteri adı,soyadı ve cinsiyeti işaretlenip kayıt edilecektir. Koltuk satıldığında kadın ise kırmızı erkek ise mavi olarak boyanacaktır.
+  * En üstte otobüs seçim kutucuğu olacak firma adları listelenecektir.
+  * İstikamet adı altında kalkış ve varış yerleri seçilecektir.
+  * Tarih kutucuğu ve fiyat kutucuğu ile o kısmı bitirmiş olacağız.
+  * Yukarıdaki işaretlemeler bittikten sonra sol tarafta seçtiğimiz otobüs firmasının koltukları belirecektir. Oradan farede sağ tık ile rezerve et seçeneği ile koltuğu satın almak için bir diğer işleme geçilecektir.Yeni bir form oluşturup orada müşteri adı,soyadı ve cinsiyeti işaretlenip kayıt edilecektir. Koltuk satıldığında kadın ise kırmızı erkek ise mavi olarak boyanacaktır.
   
