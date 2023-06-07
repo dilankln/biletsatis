@@ -20,4 +20,5 @@ Yukarıda verdiğim adımları sırasıyla yapmaya başlayabiliriz.Araç kutusun
 + label3=Varış Yeri:
 + label4=Tarih:
 + label5=Fiyat:
+
 Kalkış yeri ve varış yerini groupbox içerisine alıp ismini istikamet yapalım.
