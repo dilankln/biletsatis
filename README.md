@@ -56,9 +56,37 @@ Yeni oluşturduğumuz forma ise 2 tane label, 2 tane textBox kutucuğu,2 tane ra
 + radioButton1=Bay
 + radioButton2=Bayan
 + button1=İptal
-+ button2=Kaydet
++ button2=Tamam
 
 şeklinde düzenleyelim ve nasıl göründüğüne bakalım.
 
 ![kayıt2](https://github.com/dilankln/biletsatis.io/assets/102542430/030ce7ad-e18c-44ab-ab99-f7f9f027cf7c)
 
+Bir önceki formda yaptığımız gibi yine kısaltma işlemi yapalım.
+ + textBox1=txtIsim
+ + textBox2=txtSoyisim
+ + radioButton1=rdbBay
+ + radioButton2=rdbBayan
+ + button1=btnIptal
+ + button2=btnTamam
+
+şeklinde kısaltmalarımızı yapıp işimizi kolaylaştıralım.
+İlk yaptığımız forma gelip otobüs seçin yazdığımız comboBoxa çif tıklayıp otobüs firmalarımızı oluşturalım koltuklarıyla beraber.
+Sizlere ilk görselini gösterip ardından anlatımını yapacağım. Anlatımı basit ve kısa tutacağım en anlaşılır halde olmasını sağlayacağım.
+
+![otobus](https://github.com/dilankln/biletsatis.io/assets/102542430/ba47a7fd-a993-45a8-ae90-6430b29e9f03)
+
+Switch-case yöntemi ile seçim yapılmasını sağladık.Burada KoltukDoldur() fonksiyonunu oluşturdum bu kısım bittikten sonra oluşturduğum fonksiyonu da anlatacağım.Oluşturduğum fonksiyonun parantez içindeki sayılar otobüsteki arka arkaya kaç koltuk yani kaç sıra olduğunu belirler.3 tane otobüs firması oluşturdum vee hepsinin koltuklarını farklı sayıda yaptım. Koltukların görünümünü sizlere göstermeden öne koltukları 2-2 ayıralım ve arkadaki beşli koltuğu düzenleyelim.
+
+![koltuk](https://github.com/dilankln/biletsatis.io/assets/102542430/d2330e32-e949-4e2d-9afb-694149a73254)
+
+Burada koltuk numaralarını for döngüsü ile sıraladım.Sadece beşli koltuk bölünmeyecek şekilde kodları yazdım.Koltukların görünümünü height ve width ile ayarladım.Koltuk_MouseDown adında oluşturduğum yeni fonksiyon ile rezerve etme işlemini kolaylaştıracağız tabii biraz daha ilerde anlatacağım o kısmı.Koltukların bu üç firmadaki görünümlerine bakalım.
+
+![selcuk](https://github.com/dilankln/biletsatis.io/assets/102542430/0cb19ca5-c14a-4d9a-8581-3cd788425d1d)
+Selçuk Truzim
+
+![zafer](https://github.com/dilankln/biletsatis.io/assets/102542430/e985ec9b-07c7-43b6-a70f-d909d7002231)
+Zafer Truzim
+
+![kılın](https://github.com/dilankln/biletsatis.io/assets/102542430/520cd53e-4b26-4b53-90f4-8e8611f23d9b)
+Kılın Truzim 
