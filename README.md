@@ -10,4 +10,8 @@ Uygulama Windows Forms ile yapılacaktır.
   * İstikamet adı altında kalkış ve varış yerleri seçilecektir.
   * Tarih kutucuğu ve fiyat kutucuğu ile o kısmı bitirmiş olacağız.
   * Yukarıdaki işaretlemeler bittikten sonra sol tarafta seçtiğimiz otobüs firmasının koltukları belirecektir. Oradan farede sağ tık ile rezerve et seçeneği ile koltuğu satın almak için bir diğer işleme geçilecektir.Yeni bir form oluşturup orada müşteri adı,soyadı ve cinsiyeti işaretlenip kayıt edilecektir. Koltuk satıldığında kadın ise kırmızı erkek ise mavi olarak boyanacaktır.
+
+Yukarıda verdiğim adımları sırasıyla yapmaya başlayabiliriz.Araç kutusundan label seçip 5 tane label ekleyelim formumuza.3 tane ComboBox, 1 tane DateTimePicker,1 tane buton ve NumericUpDown araçlarını ekleyelim.Bu eklediklerimizi düzenleyip formda yerlerine koyalım.
+
   
+![giris](https://github.com/dilankln/biletsatis.io/assets/102542430/d3061ad6-0660-4af5-9f8b-45fd5a2a4c0d)
