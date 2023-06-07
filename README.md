@@ -71,6 +71,13 @@ Bir önceki formda yaptığımız gibi yine kısaltma işlemi yapalım.
  + button2=btnTamam
 
 şeklinde kısaltmalarımızı yapıp işimizi kolaylaştıralım.
+Kalkış ve varış yerlerini ayarlayalım.Forma gelip comboBoxun üzerindeki ok simgesine tıklayarak ögeleri düzenlene seçeneğine girelim.Alt alta istediğimiz şehirleri yazalım.Her iki seçenek içinde aynı şekilde şehir ekleyelim.
+
+![yol](https://github.com/dilankln/biletsatis.io/assets/102542430/2d67ede6-7362-4098-94c9-7432dfd86206)
+
+![yol2](https://github.com/dilankln/biletsatis.io/assets/102542430/16f2e458-c3e1-42c9-aa94-06674c3550fb)
+
+Evet şehirleri ekledik sonraki kısma geçelim.
 İlk yaptığımız forma gelip otobüs seçin yazdığımız comboBoxa çif tıklayıp otobüs firmalarımızı oluşturalım koltuklarıyla beraber.
 Sizlere ilk görselini gösterip ardından anlatımını yapacağım. Anlatımı basit ve kısa tutacağım en anlaşılır halde olmasını sağlayacağım.
 
@@ -90,3 +97,32 @@ Zafer Truzim
 
 ![kılın](https://github.com/dilankln/biletsatis.io/assets/102542430/520cd53e-4b26-4b53-90f4-8e8611f23d9b)
 Kılın Truzim 
+
+![son](https://github.com/dilankln/biletsatis.io/assets/102542430/f8b7a1a9-58b0-4665-9f1b-1e1cb3115e36)
+
+Burada son kodlamalarımızı yapacağız ve uygulamamızı bitirmiş olacağız.Koltuk_MouseDown adında oluşturduğumuz fonksiyona tiklanan adında buton ekledik rezerve et butonuna tıklanması gibi.Ardından ise rezerve et kısmını oluşturacağız.Kodları sırasıyla açıklayacağım eğer anlamadığınız yapamadığınız kısım olursa tartışma kısmına yazabilirsiniz.if ile otobüs firmalarından en az birini seçmesi gerektiğini uyarı veren mesaj kutusu oluşturdum.
+Rezerve et seçeneğine tıkladığınızda ikinci oluşturduğumuz kayıtfromu ekranı karşımıza gelecektir ve o bilgileri doldurmamız gerekmektedir.Yazılan bu kodların alt kısımları en baştaki formda listView1 oluşturduğumuzda oraya sırasıyla eklenmesini sağlayacaktır. Kodlarımız bu kadar. Forma geçip listVİew oluşturup sütunlarını ayarlayıp uygulamamızı çalıştıralım.
+
+![list](https://github.com/dilankln/biletsatis.io/assets/102542430/8fcc709f-9174-4cd2-949e-ffa1ecb78c4e)
+
+Araç kutusundan listView oluşturup sütunları düzenle diyoruz.
+
+![ekle](https://github.com/dilankln/biletsatis.io/assets/102542430/6afc3c21-53f0-4c7c-be79-236f70efd70a)
+
+7 tane sütun  ekleyelim ve bunlara isim verelim sırasıyla;
++ Müşteri
++ Cinsiyet
++ Nereden
++ Nereye
++ Koltuk No
++ Tarih
++ Fİyat
+
+şeklinde yapalım ve son haline bakalım.
+
+![sonhal](https://github.com/dilankln/biletsatis.io/assets/102542430/77dcba5e-e953-4245-8135-74548294f1e6)
+
+Evet uygulamanın formdaki son hali böyle duruyor.Şimdi kadın ve erkek olarak iki müşteri kaydetelim ve bitirelim.
+
+## ÖRNEK MÜŞTERİ KAYIT ETME
+
